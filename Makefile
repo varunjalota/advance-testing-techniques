@@ -6,6 +6,6 @@ test:
 	python -m pytest --vv --cov=hello --cov=hellocli test_hello.py
 
 lint:
-	pylint --disable=R,C hello.py hellocli.py
+	pylint --disable=R,C hello.py test_hello.py
 
 all: install lint test
