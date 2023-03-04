@@ -1,6 +1,9 @@
 # advance-testing-techniques
 This is a repo for doing Advance Testing 
 
+# Running Test Cases with actions
+[![Python application test with Github Actions](https://github.com/varunjalota/advance-testing-techniques/actions/workflows/main.yml/badge.svg)](https://github.com/varunjalota/advance-testing-techniques/actions/workflows/main.yml)
+
 # Setup
 1. Create and source Virtual Env
 ```bash
