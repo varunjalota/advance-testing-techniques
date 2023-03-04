@@ -10,4 +10,4 @@ def addthis(x, y):
     print(f"This is Result {result}")
     return result
 
-print(addthis("1", 2))
+print(addthis(1, 2))
